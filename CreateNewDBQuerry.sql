@@ -1,0 +1,4 @@
+/*CRUD*/
+/*CREATE DATABASE*/
+
+CREATE DATABASE Persoane;
